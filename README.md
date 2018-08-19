@@ -9,5 +9,5 @@ $ yarn run build
 Run
 
 ```bash
-$ node server/server.js
+$ yarn start
 ```

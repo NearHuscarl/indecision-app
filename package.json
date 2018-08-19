@@ -6,7 +6,9 @@
 	"license": "MIT",
 	"scripts": {
 		"build": "webpack",
-		"dev-server": "webpack-dev-server"
+		"dev-server": "webpack-dev-server",
+		"start": "node server/server.js",
+		"heroku-postbuild": "yarn run build"
 	},
 	"dependencies": {
 		"babel-cli": "^6.26.0",
