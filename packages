@@ -1,0 +1,9 @@
+yarn add babel-core babel-cli babel-loader
+yarn add babel-plugin-transform-class-properties
+yarn add webpack webpack-cli webpack-dev-server
+yarn add validator
+yarn add react react-dom
+yarn add react-modal
+yarn add css-loader style-loader
+yarn add sass-loader node-sass
+yarn add normalize.css
